@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Status Blocker</string>
+    <string name="service_description">Watches WhatsApp and WhatsApp Business only. When the Updates tab or a status viewer is on screen, it presses Back to leave it. Nothing is read outside WhatsApp and nothing leaves the phone.</string>
+</resources>
